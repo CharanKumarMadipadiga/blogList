@@ -1,0 +1,25 @@
+.user-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 22px;
+  margin-top: 20px;
+}
+
+.profile-img {
+  height: 140px;
+  width: 130px;
+  margin-bottom: 10px;
+}
+
+.designation {
+  color: #616e7c;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-top: 5px;
+}
